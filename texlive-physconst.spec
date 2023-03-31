@@ -1,6 +1,6 @@
 Name:		texlive-physconst
 Version:	58727
-Release:	1
+Release:	2
 Summary:	Macros for commonly used physical constants
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/physconst
