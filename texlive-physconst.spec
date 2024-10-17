@@ -3,7 +3,7 @@ Version:	58727
 Release:	2
 Summary:	Macros for commonly used physical constants
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/physconst
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/physconst
 License:	lppl1.3c
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/physconst.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/physconst.doc.r%{version}.tar.xz
